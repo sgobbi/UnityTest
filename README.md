@@ -1,3 +1,5 @@
+A lancer depuis un des trois monde (Monde1, Monde 4, Monde 5)
+
 Ce projet n'est pas parfait mais je n'avais malheureusement pas plus de 10 heures a lui consacrer a cause de la fin du semestre. Voici une description des choix que j'ai fait, des difficultes que j'ai eues, et comment a ete decoupe l'utilisation de mon temps.
 
 1ere partie: 3 heures
